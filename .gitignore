@@ -1,0 +1,19 @@
+# Byte-compiled files
+*.pyc
+__pycache__/
+
+# Virtual environment folders
+venv/
+env/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# Nmap output files
+nmap_results.txt
+
+# OS-specific files
+.DS_Store
+Thumbs.db
